@@ -49,7 +49,7 @@ The project involves end-to-end data pipeline execution, from raw data extractio
 <img width="576" height="323" alt="image" src="https://github.com/user-attachments/assets/879bc794-cee5-46d8-8b61-bdccb999babd" />
 
 
-### Page 4: Pro-Level Analytics & Forecasting
+### Page 4:Analytics & Forecasting
 <img width="576" height="322" alt="image" src="https://github.com/user-attachments/assets/cbe04d0c-b6c9-4e79-9819-dbc285666996" />
 
 
